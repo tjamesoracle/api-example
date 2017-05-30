@@ -1,4 +1,4 @@
-box: debian
+box: java:8-jdk
 build:
   steps:
     - script:
